@@ -1,0 +1,39 @@
+.van-nav-bar__text {
+    display: inline-block;
+    margin: 0 -16px;
+    padding: 0 16px;
+    color: #e5017d;
+    vertical-align: middle;
+}
+
+.van-nav-bar .van-icon {
+    color: #e5017d;
+    vertical-align: middle;
+}
+
+.van-swipe__indicator--active {
+    background-color: #e5017d;
+    opacity: 1;
+}
+
+.van-button--primary {
+    color: #fff;
+    background-color: #e5017d;
+    border: 1px solid #e5017d;
+}
+.van-tabs__line {
+  
+  background-color: #e5017d;
+  
+}
+.van-tab {
+  
+  font-size: 12px;
+  
+}
+.van-tab__text {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  display: inline-block;
+}
